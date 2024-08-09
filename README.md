@@ -18,7 +18,7 @@
 <h2>Installation</h2>
     <p>Clone the repository to your local machine:</p>
     <pre><code>
-    git clone https://github.com/abhi2902/real-time-face-detection.git
+    git clone https://github.com/abhi2902/openCV-face-detection.git
     cd real-time-face-detection
     </code></pre>
     
